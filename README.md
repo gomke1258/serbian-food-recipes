@@ -1,1 +1,2 @@
-# serbian-recipes
+# serbian-food-recipes
+Serbian Food Recipes is based on food recipes project from "The Odin Project". Homepage contains images of some of the most popular Serbian dishes. Clicking on any image, it redirects to the dedicated recipe page which contains image of dish, short description, link to see more information about dish, list of ingredients and precise instruction on how to prepare particular dish.
